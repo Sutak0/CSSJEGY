@@ -1,27 +1,19 @@
-#cim{
-    height: 600px;
-    width: 200px;
-    background-color:rgb(177, 199, 223);
-    background-repeat: repeat;
-    /*font-family: 'Courier New', Courier, monospace;*/
+body{
+    background-color: rgb(224, 224, 224);
+}
+img{
+    background-color: rgb(177, 199, 233);
+    background-repeat: repeat-x;
+}
+table{
+    width: 650px;
+    border: none;
+    text-align: center;
+    background-color:rgb(92, 107, 123);
+
 }
 
-#tortenet{
-    color: rgb(102, 101, 132);
-    font-size: x-large;
-    font-family: 'Times New Roman', Times, serif;
-}
-#minden{
-    background-color: rgb(224, 224, 224);
-    color: black;
-}
-#tablazat1{
-    width: 650px;
-    text-align: center;
-    background-color:rgb(92, 107, 132);
-}
 #tablazat2{
     background-color: white;
     width: 600px;
-    text-align: center;
 }
