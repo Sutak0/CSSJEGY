@@ -31,3 +31,12 @@ b{
 #link{
     font-size: smaller;
 }
+#bushmemex{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#bush{
+    float: right;
+}
